@@ -1,4 +1,5 @@
 const dbConfig = require("./db.config");
+//yogita test in database
 
 const Sequelize = require("sequelize");
 const sequelize = new Sequelize(dbConfig.DB, dbConfig.USER, dbConfig.PASSWORD, {
