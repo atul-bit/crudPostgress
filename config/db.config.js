@@ -12,5 +12,4 @@ module.exports = {
     }
   };
 
-  //i love yogita humesha...
   
